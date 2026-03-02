@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミラクルをキミとおこしたいんです",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T15:21:38.471270Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミラクルをキミとおこしたいんです",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_ミラクルをキミとおこしたいんです_サンボマスター.txt"
+    }
+  ]
+}
